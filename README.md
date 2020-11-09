@@ -47,7 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-O layout do site foi desenvolvido durante o curso de **WordPress Como CMS** da [Origamid](https://www.origamid.com/curso/wordpress-como-cms).
+O layout do site foi entregue pronto e codificado durante o curso de **WordPress Como CMS** da [Origamid](https://www.origamid.com/curso/wordpress-como-cms).
 
 
 ## 🌐 Projeto final
